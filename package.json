@@ -30,7 +30,7 @@
 		"helmet": "3.18.0",
 		"mongo-sanitize": "^1.0.1",
 		"mongoose": "5.5.11",
-		"node-sass": "4.12.0",
+		"node-sass": "4.13.1",
 		"nodemon": "1.19.1",
 		"react-animated-css": "1.2.1",
 		"react-facebook": "8.0.4",
